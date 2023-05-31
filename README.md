@@ -13,7 +13,7 @@
 
 #### 👨‍💻 Programming Languages
 
-
+  <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width= 40 height= 40>
 
 
@@ -21,7 +21,7 @@
 
 
   <img src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" width= 40 height=80>
-
+   </p>
 
 #### 🔧 Frameworks and Tools
   
