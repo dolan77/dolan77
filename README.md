@@ -14,14 +14,20 @@
 #### 👨‍💻 Programming Languages
 
   <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width= 40 height= 40>
+  
+    <a href="https://www.w3schools.com/js/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width= 40 height= 40>
+    </a>
 
+    <a href="https://www.python.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width= 40 height= 40>
+    </a>
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width= 40 height= 40>
-
-
-  <img src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" width= 40 height=80>
-   </p>
+    <a href="https://www.java.com/en/">
+    <img src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" width= 40 height=80>
+    </a>
+  
+  </p>
 
 #### 🔧 Frameworks and Tools
   
