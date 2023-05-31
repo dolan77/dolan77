@@ -13,15 +13,15 @@
 
 #### 👨‍💻 Programming Languages
 
-<picture>
+
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width= 40 height= 40>
-</picture>
-<picture>
+
+
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width= 40 height= 40>
-</picture>
-<picture>
-  <img src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" width= 40 height= =80>
-</picture>
+
+
+  <img src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" width= 40 height=80>
+
 
 #### 🔧 Frameworks and Tools
   
